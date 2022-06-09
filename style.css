@@ -1,8 +1,9 @@
 
 
 body {
-    background-color: pink;
+    background-color: #6792af;
     font-family: sans-serif;
+    padding: 50px
  
 }
 
@@ -10,6 +11,60 @@ h1 {
     font-family: 'Josefin Sans', sans-serif;
 }
 
+p {
+    font-family: 'Shadows Into Light', cursive;
+    line-height: 30px;
+    color: #171b1d;
+}
+
 img {
-    border-radius: 50px 0 50px 0;
+    border-radius: 50px 0 50px 0 ;
+}
+
+h3 {
+    font-family: 'Josefin Sans', sans-serif;
+    color:#056959
+}
+
+ul {
+    color: #171b1d;
+}
+
+.botton {
+    border-style: none;
+    padding: 10px 20px;
+    background-color:#c78888 ;
+    height: 30px;
+    width: 200px;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.links-internos {
+    color: #1a8abe;
+    text-decoration: none;
+}
+
+strong {
+    color: rgb(70, 70, 151);
+
+}
+
+.links-externos {
+    color: #056959;
+
+}
+
+.item1 {
+    font-size: 25px;
+}
+
+.item2 {
+    font-size: 20px;
+}
+
+.tem3 {
+    font-size: 15px;
 }
