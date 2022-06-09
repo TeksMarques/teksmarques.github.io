@@ -9,12 +9,14 @@ body {
 
 h1 {
     font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
 }
 
 p {
     font-family: 'Shadows Into Light', cursive;
     line-height: 30px;
     color: #171b1d;
+    font-size: 20px;
 }
 
 img {
@@ -23,17 +25,25 @@ img {
 
 h3 {
     font-family: 'Josefin Sans', sans-serif;
-    color:#056959
+    color:#056959;
+    font-size: 30px;
+
 }
 
 ul {
     color: #171b1d;
+    margin-bottom: 30px;
+    list-style-type: circle;
+}
+
+ol {
+    list-style-type: square;
 }
 
 .botton {
     border-style: none;
     padding: 10px 20px;
-    background-color:#c78888 ;
+    background-color:#ec5454 ;
     height: 30px;
     width: 200px;
     text-decoration: none;
@@ -43,8 +53,9 @@ ul {
 }
 
 .links-internos {
-    color: #1a8abe;
+    color: #3388d8;
     text-decoration: none;
+    font-weight: 600;
 }
 
 strong {
@@ -54,6 +65,7 @@ strong {
 
 .links-externos {
     color: #056959;
+    font-weight: 600;
 
 }
 
